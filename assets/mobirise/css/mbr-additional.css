@@ -1029,7 +1029,7 @@ section.lazy-placeholder:after {
 }
 .cid-s6kSwk0EEZ {
   padding-top: 45px;
-  padding-bottom: 120px;
+  padding-bottom: 105px;
   background-image: url("../../../assets/images/asusua-7-2000x1125.png");
 }
 .cid-s6kSwk0EEZ .icons-media-container {
@@ -1469,4 +1469,7 @@ section.lazy-placeholder:after {
 .cid-s6l9ymsh14 H2 {
   text-align: center;
   color: #cc2952;
+}
+.cid-s6l9ymsh14 .card-title {
+  text-align: left;
 }
