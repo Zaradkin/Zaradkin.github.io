@@ -1300,8 +1300,8 @@ section.lazy-placeholder:after {
   color: #efefef;
 }
 .cid-s6l9sOtGHt {
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-s6l9sOtGHt h4 {
@@ -1336,6 +1336,10 @@ section.lazy-placeholder:after {
   .cid-s6l9sOtGHt .card-box {
     padding-left: 0;
   }
+}
+.cid-s6l9sOtGHt .card-title,
+.cid-s6l9sOtGHt .card-img {
+  text-align: left;
 }
 .cid-s6kYHtMpCB {
   padding-top: 30px;
